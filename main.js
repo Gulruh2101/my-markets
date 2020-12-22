@@ -1,0 +1,1 @@
+alert(" Saytimga Hush Kelibsiz Azizlarim! ");
